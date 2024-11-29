@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anirban</h1>
-<h3 align="center">A passionate full stack flutter developer</h3>
+<h3 align="center">Flutter developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
@@ -8,13 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anirbansinharo7" target="blank"><img src="https://img.shields.io/twitter/follow/anirbansinharo7?logo=twitter&style=for-the-badge" alt="anirbansinharo7" /></a> </p>
 
-- 🔭 I’m currently working on **Expense Tracker App**
-
-- 🌱 I’m currently learning **Firebase , Dart**
 
 - 💬 Ask me about **Flutter**
 
-- ⚡ Fun fact **I have an excellent sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
